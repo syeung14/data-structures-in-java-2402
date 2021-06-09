@@ -1,0 +1,4 @@
+GIT repository:
+  URL: https://www.javaspecialists.eu/git/safari/data-structures-in-java-2402.git
+  Username: safari2402
+  Password: FXSOwLk1
