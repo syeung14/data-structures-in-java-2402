@@ -2,3 +2,7 @@ GIT repository:
   URL: https://www.javaspecialists.eu/git/safari/data-structures-in-java-2402.git
   Username: safari2402
   Password: FXSOwLk1
+
+Upcoming courses:
+6th & 7th July - Design Patterns in Java Deep Dive
+        https://learning.oreilly.com/attend/design-patterns-in-java-deep-dive/0636920391081/0636920058314/
